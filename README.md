@@ -1,7 +1,4 @@
-HEAD
 # SKKU_Anomaly_Detection_Project
-
-a3647b0 (Initial commit)
 
 # IGD
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-mnist)](https://paperswithcode.com/sota/anomaly-detection-on-mnist?p=unsupervised-anomaly-detection-and)
